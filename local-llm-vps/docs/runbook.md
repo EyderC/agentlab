@@ -18,6 +18,16 @@ NOVIEMBRE 2 DE 2026
 - Crear directorio docs y archivo runbook.md documentando lo hecho hoy. 
 - Hacer primer commit del repo  --> docs: add VPS diagnosis and initial setup. 
 
+NOVIEMBRE 4 DE 2026
+
+4 - Construir el entorno de desarollo local  
+- Instalar compilador de c++ y herramientas de python para entornos virtuales y desarrollo 
+- Crear directorio para el servidor y dentro un entorno virtual para python
+- Instalar en el entorno virtual la libreria llama-cpp-python[server] 
+- Descargar modelo LLM qwent 2.5-3b-instruct-q4_k_M que se ajusta a la cantidad de memoria RAM disponible en el servidor
+- Probar con python sin servidor, que el modelo carga y responde ante una solicitud. 
+
+
 
 
 
